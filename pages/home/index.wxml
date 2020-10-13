@@ -1,3 +1,5 @@
 <!--pages/home/index.wxml-->
 <text>我是home</text>
 <button size="mini">按钮</button>
+<text>02 知识点2</text>
+
